@@ -18,7 +18,6 @@ This project analyzes a dataset of 10,841 apps from the Google Play Store, conta
 
 2. **Feature Engineering**  
    - Extracted year, month, and day from `Last Updated`  
-   - Created `Size_MB` and `Days_Since_Update` columns  
 
 3. **Exploratory Data Analysis (EDA)**  
    - Identified most popular categories and top apps by installs  
